@@ -1,0 +1,4 @@
+* instalador
+* facebook api
+** actualizador de tokens automático
+* agregador de mensajes a la csv
